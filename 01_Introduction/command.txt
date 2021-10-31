@@ -1,0 +1,8 @@
+
+deno run filename.js
+
+deno run filename.ts
+
+deno run https://deno.land/std/examples/welcome.ts
+
+package to install: deno (purple icon)
