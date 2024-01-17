@@ -1,0 +1,27 @@
+
+[
+    {
+        "name": "Daniel",
+        "age": "37",
+        "heightCm": "177",
+        "weightKg":"92"
+    },
+    {
+        "name": "Julie",
+        "age": "36",
+        "heightCm": "159",
+        "weightKg":"82"
+    },
+    {
+        "name": "Gaia",
+        "age": "4",
+        "heightCm": "112",
+        "weightKg":"21"
+    },
+    {
+        "name": "Amaya",
+        "age": "1",
+        "heightCm": "82",
+        "weightKg":"12"
+    }
+]
